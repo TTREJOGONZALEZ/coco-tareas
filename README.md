@@ -2,6 +2,22 @@
 
 App personal contra la procrastinación. Se conecta a mi Google Classroom, usa IA (Gemini) para estimar cuánto tarda y qué tan difícil es cada tarea, arma un cronograma y me avisa por Telegram cuándo toca empezar.
 
+## Capturas
+Las capturas usan tareas de ejemplo.
+
+**Computadora**
+
+![Vista de computadora](capturas/escritorio.png)
+
+![Detalle de una tarea en computadora](capturas/escritorio-detalle.png)
+
+**Celular**
+
+<p>
+  <img src="capturas/celular.png" width="280" alt="Vista de celular">
+  <img src="capturas/celular-detalle.png" width="280" alt="Detalle de una tarea en celular">
+</p>
+
 ## Qué hace
 - Lee mis tareas pendientes de Google Classroom (solo lectura).
 - Analiza cada tarea con IA: horas estimadas, dificultad (1 a 5) y pasos para empezar.
