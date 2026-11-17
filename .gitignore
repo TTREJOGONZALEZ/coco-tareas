@@ -1,0 +1,7 @@
+.env
+credentials.json
+token.json
+tareas.db
+app.log
+__pycache__/
+*.pyc
